@@ -1,6 +1,6 @@
 # Vanilla Go HTTP Server
 
-Simple, complete golang web server with basic logging, tracing, health check, letsencrypt HTTPS, and graceful shutdown. Uses no third-party dependancies (except experimental libs; golang.org/x).
+Simple, complete golang web server with basic logging, tracing, health check, templates, letsencrypt HTTPS, and graceful shutdown. Uses no third-party dependancies (except experimental libs [golang.org/x]).
 
 Download `server.go` and use it as a base for your next simple go web server or API endpoint.
 
